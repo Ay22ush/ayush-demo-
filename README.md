@@ -1,2 +1,2 @@
 # ayush-demo-
-this is  my repo 
+this is  my repository.
